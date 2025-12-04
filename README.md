@@ -1,0 +1,2 @@
+# PHARM-NEAR--A-Community-Driven-Medicine-Finder-And-Donation-Platform
+Here is a **concise 0–350-character description** for your project:  **Pharm Near is a community-driven platform that helps users find nearby medicines and donate unused but valid ones. Using location tracking, real-time search, and NGO verification, it connects donors and seekers to reduce medicine wastage and improve healthcare accessibility.
